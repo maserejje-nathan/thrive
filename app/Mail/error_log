@@ -1,0 +1,13 @@
+[03-Jun-2017 17:22:12 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[04-Jun-2017 00:55:47 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[04-Jun-2017 07:10:44 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[04-Jun-2017 13:32:54 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[12-Jun-2017 08:41:43 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[27-Jun-2017 21:34:35 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[01-Jul-2017 11:40:51 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[02-Jul-2017 14:40:56 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[07-Jul-2017 09:57:03 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[12-Jul-2017 06:02:56 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[17-Jul-2017 00:13:35 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[08-Aug-2017 04:22:52 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11
+[01-Sep-2017 04:32:55 America/Denver] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home2/thriveo/public_html/supervision/app/Mail/reminder.php on line 11

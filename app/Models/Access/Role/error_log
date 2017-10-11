@@ -1,0 +1,8 @@
+[29-Apr-2017 18:26:57 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[30-Apr-2017 01:46:16 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[30-Apr-2017 08:00:25 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[30-Apr-2017 13:18:16 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[01-May-2017 11:51:18 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[15-Jun-2017 00:12:36 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[02-Jul-2017 00:15:53 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15
+[09-Aug-2017 12:04:37 America/Denver] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home2/thriveo/public_html/supervision/app/Models/Access/Role/Role.php on line 15

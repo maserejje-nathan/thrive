@@ -1,0 +1,12 @@
+[09-May-2017 09:03:23 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[09-May-2017 17:28:54 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[09-May-2017 23:23:22 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[10-May-2017 04:48:34 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[03-Aug-2017 07:27:33 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[03-Aug-2017 20:42:40 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[07-Aug-2017 16:24:03 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[08-Aug-2017 00:46:32 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[08-Aug-2017 09:51:20 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[09-Aug-2017 23:34:38 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[28-Aug-2017 03:27:02 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12
+[29-Aug-2017 21:07:57 America/Denver] PHP Fatal error:  Class 'App\Http\Requests\Request' not found in /home2/thriveo/public_html/supervision/app/Http/Requests/Frontend/Auth/RegisterRequest.php on line 12

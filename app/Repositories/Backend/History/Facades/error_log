@@ -1,0 +1,9 @@
+[12-May-2017 22:32:35 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[13-May-2017 05:06:08 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[13-May-2017 10:48:19 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[13-May-2017 16:54:33 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[13-May-2017 22:59:38 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[21-Jun-2017 07:47:39 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[10-Jul-2017 22:14:22 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[19-Aug-2017 19:48:48 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8
+[22-Aug-2017 11:46:19 America/Denver] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home2/thriveo/public_html/supervision/app/Repositories/Backend/History/Facades/History.php on line 8

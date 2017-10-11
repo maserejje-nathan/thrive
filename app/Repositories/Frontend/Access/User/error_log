@@ -1,0 +1,7 @@
+[11-May-2017 16:57:22 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19
+[12-May-2017 04:49:22 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19
+[12-May-2017 10:44:48 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19
+[13-May-2017 06:56:06 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19
+[10-Aug-2017 22:57:02 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19
+[11-Aug-2017 07:12:31 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19
+[12-Aug-2017 09:47:02 America/Denver] PHP Fatal error:  Class 'App\Repositories\Repository' not found in /home2/thriveo/public_html/supervision/app/Repositories/Frontend/Access/User/UserRepository.php on line 19

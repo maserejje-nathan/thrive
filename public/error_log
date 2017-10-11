@@ -1,0 +1,14 @@
+[07-Jun-2017 11:18:56 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Frontend/User/StudyPlanController.php on line 130
+[20-Jun-2017 06:56:41 UTC] PHP Fatal error:  Call to a member function get_cellmap() on null in /home2/thriveo/public_html/supervision/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 37
+[21-Jun-2017 08:58:38 UTC] PHP Fatal error:  Class 'App\Models\Access\User\visit' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Frontend/User/StudyPlanController.php on line 721
+[23-Jun-2017 10:18:32 UTC] PHP Fatal error:  Call to a member function get_cellmap() on null in /home2/thriveo/public_html/supervision/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 37
+[26-Jun-2017 04:20:00 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Backend/DashboardController.php on line 112
+[26-Jun-2017 04:21:33 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Backend/DashboardController.php on line 112
+[26-Jun-2017 04:21:54 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Backend/DashboardController.php on line 81
+[26-Jun-2017 04:24:52 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Backend/DashboardController.php on line 82
+[26-Jun-2017 04:26:37 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Backend/DashboardController.php on line 82
+[26-Jun-2017 04:27:09 UTC] PHP Fatal error:  Class 'App\Models\Access\User\goal' not found in /home2/thriveo/public_html/supervision/app/Http/Controllers/Backend/DashboardController.php on line 82
+[26-Jun-2017 04:34:40 UTC] PHP Fatal error:  Call to a member function get_cellmap() on null in /home2/thriveo/public_html/supervision/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 37
+[26-Jun-2017 04:34:49 UTC] PHP Fatal error:  Call to a member function get_cellmap() on null in /home2/thriveo/public_html/supervision/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 37
+[06-Sep-2017 06:09:46 UTC] PHP Fatal error:  Call to a member function get_cellmap() on null in /home2/thriveo/public_html/supervision/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 37
+[06-Sep-2017 06:30:56 UTC] PHP Fatal error:  Call to a member function get_cellmap() on null in /home2/thriveo/public_html/supervision/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 37
